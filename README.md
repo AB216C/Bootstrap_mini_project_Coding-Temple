@@ -1,11 +1,11 @@
 *BOOT STRAP MINI-PROJECT*
 
 
-The main goal of the project is to provide a thorough understanding of the bootstrap cencepts. 
+The main goal of the project is to provide a thorough understanding of the bootstrap concepts. 
 
 First part emphasizes on using utility classes to validate forms.
 
-Second part focus on building a responsive table,  readable, and with customized header.
+Second part focuses on building a responsive table,  readable, and with customized header.
 
 Part 3 emphasizes on showing how images behaves when wrapped in a 'div' using two classes:container or container-fluid. Also, this part shows how bootstrap is used to manupulate image's border by using class: rounded-circle
 
